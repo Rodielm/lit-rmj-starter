@@ -1,0 +1,8 @@
+node_modules/
+custom-elements.json
+/dist
+.vscode
+storybook-static
+
+# only generated for size check
+my-element.bundled.js
