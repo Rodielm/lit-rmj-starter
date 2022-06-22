@@ -1,3 +1,4 @@
+
 import { Router } from '@vaadin/router';
 
 const routes = [
@@ -8,6 +9,7 @@ const routes = [
             await import("./app");
         }
     },
+
     {
         path: "/home",
         component: "x-home",

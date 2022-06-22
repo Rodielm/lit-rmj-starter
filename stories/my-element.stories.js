@@ -9,10 +9,9 @@ export default {
 function Template({name, count}) {
     return html`
     <my-element
-      .name=${name}
-      .count=${count}
-    ></my-element>
-  `;
+        .name=${name}
+        .count=${count}
+    ></my-element>`;
 }
 
 export const App = Template.bind({});
