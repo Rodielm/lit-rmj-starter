@@ -1,5 +1,5 @@
 {
-  "name": "template-app",
+  "name": "lit-rmj-starter",
   "description": "A starter app with Lit",
   "license": "MIT",
   "version": "0.0.2",
@@ -31,7 +31,8 @@
   },
   "dependencies": {
     "@vaadin/router": "^1.7.4",
-    "lit": "^2.2.0"
+    "lit": "^2.2.6",
+    "siimple": "^4.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
